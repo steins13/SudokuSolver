@@ -114,7 +114,7 @@ td {
   font-size: 67px;
 }
 
-.col-6 {
+.col-lg-6 {
   margin: 20px auto;
   display: flex;
   justify-content: center;
